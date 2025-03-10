@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishvas</h1>
-<h3 align="center">A passionate GRC Developer</h3>
+<h3 align="center">A passionate ML Engineer</h3>
 
 - 🔭 I’m currently working on [IRCTC - Backend App](https://github.com/vishvas04/IRCTC_Ticket_Booking_App)
 
